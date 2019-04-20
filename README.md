@@ -34,7 +34,7 @@ The video below will show how to perform the setup.
 
 [![Emulator Setup](img/android-studio-video2-cover.jpg)](https://www.youtube.com/watch?v=5BdqfvRS_TY)
 
-Once the emulator is up the application will launch. 
+Once the emulator is up the application will be launched. 
 
 `**Please Note` 
 
@@ -55,7 +55,7 @@ Now that the tools are installed and configured you can open bash by right click
     $ 
 ```
 
-From here you will type the phrase "code ." at the dollar sign and this will open visual studio code application and load up the project. 
+From here you will type the phrase "code ." at the dollar sign and this will open the Visual Studio Code application and load up the project. 
 
 ```console
     heslop-capstone MINGW64 ~/Documents/Capstone-Group1-Codezero/transico_web
